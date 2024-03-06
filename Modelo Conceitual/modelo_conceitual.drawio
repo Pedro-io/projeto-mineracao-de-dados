@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-03-06T20:07:57.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="4NVv35lyKL1lSOS7_RFM" version="24.0.2" type="device">
+  <diagram name="Página-1" id="Cvnms0n_XdmRh6KIRqG8">
+    <mxGraphModel dx="4547" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1O7Cyz46VX07wWugJxUM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-1" target="1O7Cyz46VX07wWugJxUM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-1" target="1O7Cyz46VX07wWugJxUM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-1" target="1O7Cyz46VX07wWugJxUM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-1" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;&lt;b&gt;DEPRESSÃO&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="290" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-6" target="1O7Cyz46VX07wWugJxUM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-6" target="1O7Cyz46VX07wWugJxUM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-6" target="1O7Cyz46VX07wWugJxUM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-6" value="FATORES PSICOLÓGICOS " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-7" target="1O7Cyz46VX07wWugJxUM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-7" target="1O7Cyz46VX07wWugJxUM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-7" target="1O7Cyz46VX07wWugJxUM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-7" value="FATORES BIOLÓGICOS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-8" target="1O7Cyz46VX07wWugJxUM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-8" target="1O7Cyz46VX07wWugJxUM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-8" value="FATORES SOCIAIS " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1453" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-10" target="1O7Cyz46VX07wWugJxUM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-10" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;NEUROTRANSMISSORES &lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-12" target="1O7Cyz46VX07wWugJxUM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-12" value="Saúde&amp;nbsp; " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="790" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-13" target="1O7Cyz46VX07wWugJxUM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-13" value="Genética " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-14" target="1O7Cyz46VX07wWugJxUM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-14" target="1O7Cyz46VX07wWugJxUM-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-14" value="Estilos Cognitivos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-15" target="1O7Cyz46VX07wWugJxUM-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-15" target="1O7Cyz46VX07wWugJxUM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-15" value="EXPERIÊNCIAS DE VIDA" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-16" target="1O7Cyz46VX07wWugJxUM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-16" target="1O7Cyz46VX07wWugJxUM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-16" value="TRAÇOS DE PERSONALIDADE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="790" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-23" target="1O7Cyz46VX07wWugJxUM-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-23" value="&#xa;Rede de Suporte Social&#xa;&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="790" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-24" target="1O7Cyz46VX07wWugJxUM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O7Cyz46VX07wWugJxUM-24" target="1O7Cyz46VX07wWugJxUM-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-24" value="Isolamento Social" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="790" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-38" value="&lt;em&gt;Níveis específicos de neurotransmissores&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1055" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-40" value="&lt;em&gt;Histórico familiar de depressão&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-41" value="Doenças Crônicas" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-47" value="&lt;em&gt;Avaliação de traços de personalidade&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-48" value="&lt;em&gt;Análise de padrões de pensamento&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-51" value="ESTRESSE&amp;nbsp; CRÔNICO " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-53" value="EVENTOS TRAUMÁTICOS " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-56" value="&#xa;&lt;em&gt;Avaliação de estilos de processamento&lt;/em&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-57" value="&lt;em&gt;Análise de distorções cognitivas&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-60" value="&lt;em&gt;Participação em atividades sociais&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-61" value="&#xa;&lt;em&gt;Avaliação de sentimentos de solidão&lt;/em&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1O7Cyz46VX07wWugJxUM-62" value="&lt;em&gt;Quantidade e qualidade das relações sociais&lt;/em&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
